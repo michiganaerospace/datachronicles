@@ -3,7 +3,7 @@
     <div id="sections" class="w-35">
       <section class="step">
         <h1 class="white fl ml4 mr4 mt6">The Story of Water</h1>
-        <h3 class="fl ml4 mb4 light-blue">By Matthew J. Lewis, Ph.D.</h3>
+        <h3 class="fl ml4 mb4 mt3 light-blue">By Matthew J. Lewis, Ph.D.</h3>
         <p class="fl pl4 white mr4 mt3">
           We think water is exceedingly ordinary, but it is in fact the most
           remarkable substance. We wash in it, fish in it, swim in it, drink it,
